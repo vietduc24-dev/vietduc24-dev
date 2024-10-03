@@ -1,6 +1,6 @@
 # Xin chào! 👋 Tôi là Trần Việt Đức
 
-![Banner](https://avatars.githubusercontent.com/u/103983920?v=4&size=64](https://avatars.githubusercontent.com/u/103983920?v=4)) <!-- Thay bằng liên kết đến ảnh banner của bạn -->
+![Banner](https://www.facebook.com/photo/?fbid=1512433902830316&set=a.367289094011475) <!-- Thay bằng liên kết đến ảnh banner của bạn -->
 
 ## 👋 Xin chào! Tôi là Đức
 
