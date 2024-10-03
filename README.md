@@ -1,38 +1,58 @@
 # Xin chào! 👋 Tôi là Trần Việt Đức
 
-![Avatar](https://avatars.githubusercontent.com/u/103983920?v=4) <!-- Thay 'your-github-id' bằng ID GitHub của bạn hoặc thay bằng link ảnh của bạn -->
+![Banner](https://link-to-your-banner-image) <!-- Thay bằng liên kết đến ảnh banner của bạn -->
 
-## 📝 Giới thiệu
+## 👋 Xin chào! Tôi là Đức
 
-Xin chào! Tôi là Đức, một lập trình viên đầy đam mê về Công nghệ. Tôi luôn thích thú với việc tạo ra các sản phẩm hữu ích và không ngừng học hỏi những kỹ năng mới trong lĩnh vực công nghệ.
+- 💻 **Software Engineer**
+- 🚀 **Quan tâm đến các dự án mã nguồn mở**
+- ✨ **Luôn học hỏi những điều mới trong công nghệ**
 
-- 🌱 Tôi đang học: **Flutter**
+## 🛠️ Kỹ Năng và Công Cụ
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
+
+## 📂 Dự Án Nổi Bật
+
+### 📱 [Website Đặt Lịch Khám](https://github.com/vietduc24-dev/DoAnCoSo.git)
+- Mô tả: Đây là dự án về hệ thống đặt lịch khám cho bệnh nhân. Sử dụng **.NET** và **C#**.
+
+### 🌐 [Ứng Dụng Đặt Lịch Dọn Dẹp](https://github.com/tsdevtool/Flex_CleanHouse.git)
+- Mô tả: Ứng dụng web giúp người dùng đặt dịch vụ dọn dẹp nhà cửa. Sử dụng **Java**.
+
+## 📈 Thống Kê GitHub Của Tôi
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## 📊 Ngôn Ngữ Phổ Biến
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+## 🔗 Kết Nối Với Tôi
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ducjjjj/) 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+
+## 🎯 Mục Tiêu Cho 2025
+- Đóng góp nhiều hơn cho các dự án mã nguồn mở.
+- Học Kubernetes và cải thiện kỹ năng DevOps.
+- Thực tập tại một công ty 
+
+## 👨‍💻 Giới Thiệu Bản Thân
+
+Xin chào! Tôi là Đức, một lập trình viên đầy đam mê về công nghệ. Tôi yêu thích việc tạo ra các sản phẩm hữu ích và không ngừng học hỏi những kỹ năng mới.
+
+- 🌱 Hiện tại, tôi đang học **Flutter**
 - 💬 Hãy hỏi tôi về: **Công nghệ phần mềm**
 - 📫 Liên hệ với tôi qua email: **tranvietduc2411@gmail.com**
 
-## 🔥 Dự án nổi bật
+## 📊 Sắp Xếp Dự Án Bằng Bảng
 
-### 📱 [Website Đặt Lịch Khám](https://github.com/vietduc24-dev/DoAnCoSo.git)
-- Mô tả: Đây là dự án tôi đã thực hiện về hệ thống đặt lịch khám cho bệnh nhân. Sử dụng **.NET** và **C#**.
+| Dự Án        | Mô Tả                                      |
+| ------------ | ------------------------------------------- |
+| Website Đặt Lịch Khám | Hệ thống đặt lịch khám cho bệnh nhân |
+| Ứng Dụng Đặt Lịch Dọn Dẹp | Ứng dụng web đặt dịch vụ dọn dẹp nhà cửa |
 
-### 🌐 [Ứng dụng Đặt Lịch Dọn Dẹp](https://github.com/tsdevtool/Flex_CleanHouse.git)
-- Mô tả: Đây là dự án web giúp người dùng có thể đặt dịch vụ dọn dẹp nhà cửa. Sử dụng **Java**.
+## 📅 Cập Nhật Thường Xuyên
 
-## 🛠️ Kỹ Năng
-
-- **Ngôn ngữ lập trình**: C#, Java, C++
-- **Frameworks**: React
-- **Công cụ**: Git, Jira
-
-## 🌍 Kết nối với tôi:
-
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ducjjjj/) 
-LinkedIn của bạn tại đây -->
-
-## 📈 Thống kê GitHub của tôi
-
-![Thống kê GitHub](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-## 📊 Ngôn ngữ phổ biến
-
-![Ngôn ngữ Phổ Biến](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+Tôi sẽ thường xuyên cập nhật các thành tựu mới, dự án mới, và các mục tiêu học tập để giữ cho profile này luôn hấp dẫn!
