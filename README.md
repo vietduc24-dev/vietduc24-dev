@@ -24,10 +24,10 @@
 - Mô tả: Ứng dụng web giúp người dùng đặt dịch vụ dọn dẹp nhà cửa. Sử dụng **Java**.
 
 ## 📈 Thống Kê GitHub Của Tôi
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Thống kê GitHub của tôi](https://github-readme-stats.vercel.app/api?username=vietduc24-dev&show_icons=true&theme=radical)
 
 ## 📊 Ngôn Ngữ Phổ Biến
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Ngôn ngữ Phổ Biến](https://github-readme-stats.vercel.app/api/top-langs/?username=vietduc24-dev&layout=compact&theme=radical)
 
 ## 🔗 Kết Nối Với Tôi
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ducjjjj/) 
