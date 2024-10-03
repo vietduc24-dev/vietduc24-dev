@@ -1,6 +1,6 @@
 # Xin chào! 👋 Tôi là Trần Việt Đức
 
-![Banner](https://avatars.githubusercontent.com/u/103983920?v=4&size=64](https://scontent.fsgn1-1.fna.fbcdn.net/v/t39.30808-6/355307864_1512433899496983_6670642730713522675_n.jpg?stp=cp6_dst-jpg&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=3tZcqqpg5kMQ7kNvgHRPGy2&_nc_ht=scontent.fsgn1-1.fna&_nc_gid=AoxbZuXyuNuLIqhUijjNGH-&oh=00_AYCjYY5cYAmMDfDL82wCCo351KDsyHd0JRh2Wn8XE-QO0g&oe=6703DC8C)) <!-- Thay bằng liên kết đến ảnh banner của bạn -->
+![Banner]((https://scontent.fsgn1-1.fna.fbcdn.net/v/t39.30808-6/355307864_1512433899496983_6670642730713522675_n.jpg?stp=cp6_dst-jpg&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=3tZcqqpg5kMQ7kNvgHRPGy2&_nc_ht=scontent.fsgn1-1.fna&_nc_gid=AoxbZuXyuNuLIqhUijjNGH-&oh=00_AYCjYY5cYAmMDfDL82wCCo351KDsyHd0JRh2Wn8XE-QO0g&oe=6703DC8C]) <!-- Thay bằng liên kết đến ảnh banner của bạn -->
 
 ## 👋 Xin chào! Tôi là Đức
 
