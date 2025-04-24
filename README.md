@@ -11,6 +11,8 @@
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
 
